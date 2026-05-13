@@ -1,0 +1,12 @@
+.responsive-img {
+  display: block;
+  max-width: 100%; 
+  height: cover;    
+}
+
+
+.container {
+  display: flex;
+  flex-direction: column; /* Элементы строго друг под другом */
+}
+
