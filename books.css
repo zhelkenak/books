@@ -10,3 +10,5 @@
   flex-direction: column; /* Элементы строго друг под другом */
 }
 
+* { box-sizing: border-box;
+}
